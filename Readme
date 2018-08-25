@@ -1,2 +1,33 @@
 A Program a day keeps the brain alive everyday !
 Assorted box of programming problems as collectibles.
+
+Git Tips
+-------
+https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/
+
+--When you want to establish a local remote tracked by a remote git ub repo
+git remote add origin https://github.com/muthujothi/funwithprogramming.git
+
+--Push the changes from local to remote
+git push -u origin master
+
+
+
+--Basic Git workflow, after you create initial Repos etc
+---------------------------------------------------------
+1. Create a new File or make Changes to an existing file
+2. git add <F1> <F2>
+This will stage the files for next step which is commit
+3. git commit "message"
+This will create a commit object out of the staged files and commit it in the local repository.
+   git commit -a -m "message"
+If there are lot of files to be staged and you want all of them to go to github, then simply use "-a" param which will
+add everything there
+
+https://www.git-tower.com/learn/git/commands/git-commit
+
+
+
+
+
+
