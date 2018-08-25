@@ -25,7 +25,21 @@ If there are lot of files to be staged and you want all of them to go to github,
 add everything there
 
 https://www.git-tower.com/learn/git/commands/git-commit
+http://rogerdudler.github.io/git-guide/
 
+
+
+JAVA in UBUNTU
+------------
+https://www.jetbrains.com/help/idea/install-and-set-up-product.html
+http://tipsonubuntu.com/2016/07/31/install-oracle-java-8-9-ubuntu-16-04-linux-mint-18/
+https://stackoverflow.com/questions/14788345/how-to-install-the-jdk-on-ubuntu-linux
+https://askubuntu.com/questions/175514/how-to-set-java-home-for-java
+https://askubuntu.com/questions/459900/how-to-find-my-current-java-home-in-ubuntu
+
+Install openjdk and set up JAVA_HOME
+Check the javac compiler version
+Play with Editor, Javac and Java before latching on to powerful editors like IntelliJ / Eclipse
 
 
 
